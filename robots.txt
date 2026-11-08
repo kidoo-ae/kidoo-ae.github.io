@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kidoo.ae/sitemap.xml
